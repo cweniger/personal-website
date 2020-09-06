@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principle Investigators
+- PI
 ---
 
 I search for signs of new physics in astrophysical data, try to uncover the nature of dark matter, and have an obsession for machine learning and advanced data analysis techniques.
