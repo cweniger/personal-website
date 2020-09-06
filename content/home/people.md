@@ -4,8 +4,8 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+active = true # Activate this widget? true/false
+weight = 28  # Order that this section will appear.
 
 title = "Meet the Team"
 subtitle = ""
@@ -14,10 +14,9 @@ subtitle = ""
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
-                 "Visitors",
+                 "Postdocs",
+                 "Phd Students",
+                 "MSc Students",
                  "Alumni"]
 
 [design]
@@ -41,11 +40,11 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "DarkMatter.jpg"  # Name of image in `static/media/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -54,3 +53,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
+**For information about possible Bachelor and Master projects in my group
+checkout out the [GRAPPA
+website](https://iop.fnwi.uva.nl/grappa/education/grappa-msc-thesis-projects/).**
+
