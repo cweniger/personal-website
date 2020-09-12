@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 28  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "Group members"
 subtitle = ""
 
 [content]
@@ -52,7 +52,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
 
 **For information about possible Bachelor and Master projects in my group
 checkout out the [GRAPPA

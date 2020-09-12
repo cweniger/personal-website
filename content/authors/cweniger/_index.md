@@ -16,26 +16,27 @@ role: Associate Professor of Physics
 organizations:
 - name: University of Amsterdam
   url: "https://www.uva.nl"
-- name: Institute of Physics
-  url: "https://iop.uva.nl"
+#- name: Institute of Physics
+#  url: "https://iop.uva.nl"
 - name: GRAPPA
   url: "https://grappa.amsterdam"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Machine learning
-- Physics
+#interests:
+#- Machine learning
+#- Stron gle
+#- Physics
 
-education:
-  courses:
-  - course: PhD in Theoretical Physics
-    institution: University of Hamburg
-    year: 2010
-  - course: MSc in Physics
-    institution: University of Bonn
-    year: 2006
+#education:
+#  courses:
+#  - course: PhD in Theoretical Physics
+#    institution: University of Hamburg
+#    year: 2010
+#  - course: MSc in Physics
+#    institution: University of Bonn
+#    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +70,6 @@ user_groups:
 - PI
 ---
 
-I search for signs of new physics in astrophysical data, try to uncover the nature of dark matter, and have an obsession for machine learning and advanced data analysis techniques.
+I am associate professor for physics at the
+University of Amsterdam.  I try shed light on the dark Universe and have an
+obsession for modern machine learning and data analysis methods.
