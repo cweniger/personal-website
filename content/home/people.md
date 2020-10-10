@@ -53,7 +53,8 @@ subtitle = ""
  css_class = ""
 +++
 
-**For information about possible Bachelor and Master projects in my group
+For information about possible Bachelor and Master projects in my group
 checkout out the [GRAPPA
-website](https://iop.fnwi.uva.nl/grappa/education/grappa-msc-thesis-projects/).**
+website](https://iop.fnwi.uva.nl/grappa/education/grappa-msc-thesis-projects/),
+or contact me directly.
 

@@ -26,7 +26,7 @@ organizations:
 
 #interests:
 #- Machine learning
-#- Stron gle
+#- Stron gravitational 
 #- Physics
 
 #education:
@@ -70,6 +70,10 @@ user_groups:
 - PI
 ---
 
-I am associate professor for physics at the
-University of Amsterdam.  I try shed light on the dark Universe and have an
-obsession for modern machine learning and data analysis methods.
+# Christoph Weniger
+
+I am an associate professor at GRAPPA and the Institute of Physics at the
+University of Amsterdam, and principle investigator of the ERC consolidator
+project "Undark".  I use machine learning to shed light on the mysteries of the
+dark Universe.  
+
