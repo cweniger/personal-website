@@ -72,8 +72,8 @@ user_groups:
 
 # Christoph Weniger
 
-I am an associate professor at GRAPPA and the Institute of Physics at the
-University of Amsterdam, and principle investigator of the ERC consolidator
-project "Undark".  I use machine learning to shed light on the mysteries of the
+I am an associate professor at GRAPPA, the center of excellence for GRavitation AstroParticle Physics Amsterdam, and the Institute of Physics at the
+University of Amsterdam.  Currently, I lead as Principle Investigator the ERC consolidator
+project `UnDark`.  I use Machine Learning to shed light on the mysteries of the
 dark Universe.  
 

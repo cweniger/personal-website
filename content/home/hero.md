@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 title = "Group mission"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "DarkMatter.jpg"
+#hero_media = "DarkMatter.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,10 +37,10 @@ hero_media = "DarkMatter.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#publications"
-  label = "Join the group"
+  url = "#projects"
+  label = "Projects"
   icon_pack = "fas"
-  icon = "download"
+  icon = "hand-point-down"
   
 #[cta_alt]
 #  url = "https://sourcethemes.com/academic/"
