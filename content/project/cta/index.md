@@ -1,14 +1,17 @@
 ---
 title: CTA (Cherenkov Telescope Array)
-summary: I am member of the CTA consortium, and interested in searches for dark matter using gamma ray data.
+weight: 50 
+summary: Member of the CTA consortium. We are interested in searching for gamma-rays from dark matter and studying primordial magnetic fields.
 tags:
-- Machine Learning
+- Gamma rays
+- Dark matter
+- Machine learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://darkmachines.org
+external_link: https://www.cta-observatory.org/
 
 image:
-  caption: DarkMachines logo
+  caption: CTA artist impression
   focal_point: Smart
 ---

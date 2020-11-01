@@ -13,11 +13,11 @@ subtitle: ""
 weight: 21
 
 design:
-  columns: "12"
+  columns: "2"
   background:
-    image: DarkMatter.jpg
-    image_darken: 0.6
-    image_parallax: false
+    image: Amsterdam.jpg
+    image_darken: 0.8
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true

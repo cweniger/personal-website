@@ -1,11 +1,11 @@
 +++
 # Hero widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+active = true # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
-title = "Group mission"
+title = "Machine Learning to uncover the Dark Universe"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "DarkMatter.jpg"
@@ -28,7 +28,7 @@ title = "Group mission"
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -44,11 +44,4 @@ title = "Group mission"
   
 +++
 
-
-We aim at finding signals of physics beyond the Standard Model using a
-wide range of astrophysical observations.  Our ultimate goal is to shed light
-on dark matter and other mysteries of the dark Universe.  We focus on new
-observational approaches and technical challenges that others have not been
-able to overcome.  An important component is to train the next generation of
-astroparticle physicists in cutting-edge machine learning techniques.
-
+We are hiring!

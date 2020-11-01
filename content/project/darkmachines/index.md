@@ -1,6 +1,6 @@
 ---
 title: DarkMachines
-summary: "Dark Machines is a research collective of physicists and data scientists. We are curious about the universe and want to answer cutting edge questions about Dark Matter with the most advanced techniques that data science provides us with."
+summary: "Co-organizer. Dark Machines is a research collective of physicists and data scientists with the goal to uncover the mysteries of the dark Universe."
 tags:
 - Machine Learning
 date: "2016-04-27T00:00:00Z"

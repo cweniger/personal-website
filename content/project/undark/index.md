@@ -1,6 +1,7 @@
 ---
-title: ERC Consolidator Project UnDark
-summary: An example of using the in-built project page.
+title: ERC CoG UnDark
+weight: 10
+summary: Principal Investigator.  We explore new approaches to uncover dark matter in the post-WIMP era.
 tags:
 - Machine Learning
 date: "2016-04-27T00:00:00Z"
