@@ -1,0 +1,3 @@
+#!/bin/sh
+hugo
+rsync -avz public/ ssh-w0130017@w0130017.kasserver.com:/www/htdocs/w0130017/christophweniger.com

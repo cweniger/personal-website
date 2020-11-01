@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Machine Learning to uncover the Dark Universe"
+title = "Uncovering the Dark Universe with Machine Learning"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "DarkMatter.jpg"
@@ -37,11 +37,9 @@ title = "Machine Learning to uncover the Dark Universe"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#projects"
-  label = "Projects"
+  url = "https://www.uva.nl/en/content/vacancies/2020/10/20-646-postdoctoral-research-positions-in-dark-universe-physics--machine-learning.html"
+  label = "We are hiring!"
   icon_pack = "fas"
-  icon = "hand-point-down"
+  #icon = "hand-point-down"
   
 +++
-
-We are hiring!
