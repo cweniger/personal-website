@@ -67,6 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+For a full list of publications see [inspirehep.net](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20weniger%2Cc.)
